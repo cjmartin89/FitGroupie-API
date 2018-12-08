@@ -1,0 +1,25 @@
+{
+  "name": "fitgroupie",
+  "version": "1.0.0",
+  "description": "FitGroupie API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "firebase-admin": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmartin89/FitGroupie-API.git"
+  },
+  "author": "Christopher Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjmartin89/FitGroupie-API/issues"
+  },
+  "homepage": "https://github.com/cjmartin89/FitGroupie-API#readme"
+}
